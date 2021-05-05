@@ -1,3 +1,5 @@
+FOLLOWING TOPICS ON NUMPY LIBRARY
+
 1. Introduction of NumPy
 
 2. Why use NumPy
